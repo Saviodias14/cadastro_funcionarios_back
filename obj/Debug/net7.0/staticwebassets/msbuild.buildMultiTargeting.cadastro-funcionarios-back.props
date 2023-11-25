@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/cadastro-funcionarios-back.props" />
+</Project>
